@@ -367,7 +367,7 @@
 
         <!-- Footer -->
         <div class="footer">
-            <p>&copy; 2024 Bank Fixed Assets Management System | Developed by [Your Name] | Abuja, Nigeria</p>
+            <p>&copy; 2024 Bank Fixed Assets Management System | Developed by David Chukwuemeka Anozie | Abuja, Nigeria</p>
         </div>
     </div>
 </body>
